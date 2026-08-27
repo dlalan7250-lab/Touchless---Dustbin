@@ -154,7 +154,7 @@ void loop() {
 
 ## 🔲 Schematic Diagram
 
-![Schematic Diagram](<img width="1312" height="682" alt="Screenshot 2026-08-27 213658" src="https://github.com/user-attachments/assets/f96916c9-6365-417f-82e1-99cdd64bf212" />
+![Schematic Diagram](https://github.com/dlalan7250-lab/Touchless---Dustbin/blob/129f257c6f59bac12bbbbb3d8ee4ed1981c0e07b/smart%20dustbin%20scemetic%20diagram.png
 )
 
 ---
