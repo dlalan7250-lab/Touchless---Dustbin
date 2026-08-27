@@ -9,7 +9,8 @@ The system detects a person's hand without physical contact and automatically op
 
 ## 📸 Project
 
-![Touchless Automatic Dustbin](images/touchless-dustbin.jpg)
+![Touchless Automatic Dustbin](<img width="1392" height="658" alt="smart dustbin pic " src="https://github.com/user-attachments/assets/701d10fe-614e-4a44-ad3c-63bfb1a5d7fa" />
+)
 
 ---
 
@@ -153,7 +154,8 @@ void loop() {
 
 ## 🔲 Schematic Diagram
 
-![Schematic Diagram](images/schematic.png)
+![Schematic Diagram](<img width="1312" height="682" alt="Screenshot 2026-08-27 213658" src="https://github.com/user-attachments/assets/f96916c9-6365-417f-82e1-99cdd64bf212" />
+)
 
 ---
 
@@ -161,7 +163,7 @@ void loop() {
 
 A short demonstration of the working prototype:
 
-**[▶️ Watch Demo](YOUR_VIDEO_LINK_HERE)**
+**[▶️ Watch Demo]()**
 
 ---
 
