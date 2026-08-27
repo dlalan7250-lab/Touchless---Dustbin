@@ -163,7 +163,7 @@ void loop() {
 
 A short demonstration of the working prototype:
 
-**[▶️ Watch Demo]()**
+**[▶️ Watch Demo](https://github.com/dlalan7250-lab/Touchless---Dustbin/blob/729818abe3f4701c6a4320bac4156b042903ddc3/smart%20dustbin%20demo.mp4)**
 
 ---
 
