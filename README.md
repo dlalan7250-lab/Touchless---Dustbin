@@ -9,7 +9,7 @@ The system detects a person's hand without physical contact and automatically op
 
 ## 📸 Project
 
-![Touchless Automatic Dustbin](<img width="1392" height="658" alt="smart dustbin pic " src="https://github.com/user-attachments/assets/701d10fe-614e-4a44-ad3c-63bfb1a5d7fa" />
+![Touchless Automatic Dustbin](https://github.com/dlalan7250-lab/Touchless---Dustbin/blob/f009b89d89d3e136916479738b877907bbe89dcf/smart%20dustbin%20pic%20.png
 )
 
 ---
